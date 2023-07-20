@@ -13,7 +13,7 @@ WIntel is a Clean Python Tool for WHOIS Data Retrieval, a simple whois intellige
 
 # Usage:
 
-Git Clone: $ git clone https://github.com/Th3BlackHol3/wintel.git && cd wintel
+Git Clone: $ git clone https://github.com/Th3BlackHol3/WIntel.git && cd WIntel
 
 $ sudo chmod +x wintel.py
 
